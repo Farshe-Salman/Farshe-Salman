@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Farshe</h1>
-<h3 align="center">CSE undergraduate at American International University-Bangladesh (AIUB), currently in 8th semester with a CGPA of 3.93. Skilled in C++, Java, C#, HTML, CSS, JavaScript, PHP, and React. Familiar with core concepts of data structures, algorithms, and database management. Solved 100+ problems on Codeforces. Passionate about software development, AI, and data science. Eager to build impactful solutions and continuously grow as a developer.</h3>
+<h3 align="center">CSE undergraduate at American International University-Bangladesh (AIUB), currently in 9th semester with a CGPA of 3.94. Skilled in C++, Java, C#, HTML, CSS, JavaScript, PHP, and React. Familiar with core concepts of data structures, algorithms, and database management. Solved 100+ problems on Codeforces. Passionate about software development, AI, and data science. Eager to build impactful solutions and continuously grow as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farshe-salman&label=Profile%20views&color=0e75b6&style=flat" alt="farshe-salman" /> </p>
 
