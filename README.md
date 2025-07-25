@@ -37,10 +37,10 @@
   </h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=farshe-salman&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=farshe-salman&theme=radical" alt="Streak Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshe-salman&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshe-salman&layout=compact&theme=radical" alt="Top Languages" height="180px"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=farshe-salman&show_icons=true&theme=radical" alt="GitHub Stats" height="150px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=farshe-salman&theme=radical" alt="Streak Stats" height="150px"/>
+
 
 </div>
 
