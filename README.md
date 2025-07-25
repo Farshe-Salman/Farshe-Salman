@@ -1,13 +1,23 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=farshe-salman&label=Profile%20views&color=0e75b6&style=flat" alt="farshe-salman" />
+<h1 align="center">👋 Hi, <br>
+I'm <span style="color:#ff7b00;">Salman Farshe</span></h1>
+<p align="center">
+  <kbd>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjZmVkMzMwYTdhY2QyOWJjZDcxMmRkMzkzYjNkNTFkYTRmNzdmYyZjdD1n/26DoiqmYcxgFICb3G/giphy-downsized.gif" height="200" width="200"/>
+</kbd>
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=farshe-salman&label=Profile%20views&color=0e75b6&style=flat" alt="farshe-salman"/>
+  
+<h2 style="text-align: center; font-weight: 700; font-size: 2rem; color: #1a1a1a;">
+    🎲 About Me
+  </h2>
 
-<h1 align="center" style="color:#007acc;">👋 Hi, I'm <span style="color:#ff7b00;">Salman Farshe</span></h1>
-
-<h5 align="center" style="color:#333;">CSE undergraduate at American International University-Bangladesh (AIUB), currently in 9th semester with a CGPA of 3.94. Skilled in C++, Java, C#, HTML, CSS, JavaScript, PHP, and React. Familiar with core concepts of data structures, algorithms, and database management. Solved 100+ problems on Codeforces. Passionate about software development, AI, and data science. Eager to build impactful solutions and continuously grow as a developer.</h5>
+<h5 align="center" style="color:#333;">I am a student of computer science and engineering at American International University-Bangladesh (AIUB), currently in 9th semester with a CGPA of 3.94. Skilled in C++, Java, C#, HTML, CSS, JavaScript, PHP, and React. Familiar with core concepts of data structures, algorithms, and database management. Solved 100+ problems on Codeforces. Passionate about software development, AI, and data science. Eager to build impactful solutions and continuously grow as a developer.</h5>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 style="text-align: center; font-weight: 700; font-size: 2rem; color: #1a1a1a;">
+    🛠️ Languages and Tools
+  </h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
@@ -37,7 +47,7 @@
   </h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshe-salman&layout=compact&theme=radical" alt="Top Languages" height="180px"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshe-salman&layout=compact&theme=radical" alt="Top Languages" height="150px"/><br>
 <img src="https://github-readme-stats.vercel.app/api?username=farshe-salman&show_icons=true&theme=radical" alt="GitHub Stats" height="150px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=farshe-salman&theme=radical" alt="Streak Stats" height="150px"/>
 
