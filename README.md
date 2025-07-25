@@ -10,23 +10,11 @@
     📊 GitHub Stats
   </h2>
 
-  <div style="display: flex; flex-direction: row; width: 100%; gap: 30px;">
-  <div style="flex: 1;">
-      <img
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=farshe-salman&show_icons=true&locale=en&layout=compact" alt="farshe-salman"
-        style="width: 400px; height: 220px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"/>
-    </div>
-    <div style="flex: 1;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=farshe-salman&show_icons=true&locale=en" alt="farshe-salman"
-        style="width: 500px; height: 220px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"/>
-    </div>
-    <div style="flex: 1;">
-         <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=farshe-salman&" alt="farshe-salman"
-      style="width: 500px; height: 220px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"/>
-    </div>
-  </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farshe-salman&show_icons=true&locale=en&layout=compact" alt="farshe-salman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farshe-salman&show_icons=true&locale=en" alt="farshe-salman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farshe-salman&" alt="farshe-salman" /></p>
 
   <div style="width: 100%;">
     <img
